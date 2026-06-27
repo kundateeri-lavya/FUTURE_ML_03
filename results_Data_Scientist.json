@@ -1,0 +1,343 @@
+{
+  "job_title": "Data Scientist",
+  "total_candidates": 10,
+  "required_skills": [
+    "natural language processing",
+    "pandas",
+    "tensorflow",
+    "data visualization",
+    "matplotlib",
+    "python",
+    "machine learning",
+    "scikit-learn",
+    "pytorch",
+    "numpy",
+    "sql",
+    "tableau",
+    "nlp",
+    "git",
+    "seaborn"
+  ],
+  "candidates": [
+    {
+      "candidate_id": "C001",
+      "name": "Arjun Sharma",
+      "tfidf_similarity": 0.168,
+      "skill_match_score": 0.8033,
+      "experience_score": 1.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.5,
+      "final_score": 0.5998,
+      "rank": 1,
+      "matched_skills": [
+        "pandas",
+        "tensorflow",
+        "data visualization",
+        "matplotlib",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "pytorch",
+        "numpy",
+        "sql",
+        "tableau",
+        "nlp",
+        "git",
+        "seaborn"
+      ],
+      "missing_skills": [
+        "natural language processing"
+      ],
+      "skill_gap_percentage": 6.67,
+      "recommendation": "\ud83d\udfe1 RECOMMENDED"
+    },
+    {
+      "candidate_id": "C003",
+      "name": "Rahul Mehta",
+      "tfidf_similarity": 0.2009,
+      "skill_match_score": 0.71,
+      "experience_score": 1.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.5333,
+      "final_score": 0.5867,
+      "rank": 2,
+      "matched_skills": [
+        "natural language processing",
+        "pandas",
+        "tensorflow",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "pytorch",
+        "numpy",
+        "sql",
+        "tableau",
+        "nlp",
+        "git"
+      ],
+      "missing_skills": [
+        "matplotlib",
+        "data visualization",
+        "seaborn"
+      ],
+      "skill_gap_percentage": 20.0,
+      "recommendation": "\ud83d\udfe1 RECOMMENDED"
+    },
+    {
+      "candidate_id": "C007",
+      "name": "Mohammed Ali",
+      "tfidf_similarity": 0.1124,
+      "skill_match_score": 0.7567,
+      "experience_score": 0.75,
+      "education_score": 1.0,
+      "keyword_density_score": 0.3667,
+      "final_score": 0.5155,
+      "rank": 3,
+      "matched_skills": [
+        "natural language processing",
+        "pandas",
+        "tensorflow",
+        "data visualization",
+        "matplotlib",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "numpy",
+        "sql",
+        "nlp",
+        "git",
+        "seaborn"
+      ],
+      "missing_skills": [
+        "tableau",
+        "pytorch"
+      ],
+      "skill_gap_percentage": 13.33,
+      "recommendation": "\ud83d\udfe0 MAYBE - NEEDS REVIEW"
+    },
+    {
+      "candidate_id": "C008",
+      "name": "Ananya Singh",
+      "tfidf_similarity": 0.0986,
+      "skill_match_score": 0.6633,
+      "experience_score": 1.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.3,
+      "final_score": 0.5135,
+      "rank": 4,
+      "matched_skills": [
+        "pandas",
+        "tensorflow",
+        "data visualization",
+        "matplotlib",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "pytorch",
+        "numpy",
+        "nlp",
+        "git"
+      ],
+      "missing_skills": [
+        "natural language processing",
+        "tableau",
+        "sql",
+        "seaborn"
+      ],
+      "skill_gap_percentage": 26.67,
+      "recommendation": "\ud83d\udfe0 MAYBE - NEEDS REVIEW"
+    },
+    {
+      "candidate_id": "C006",
+      "name": "Divya Patel",
+      "tfidf_similarity": 0.104,
+      "skill_match_score": 0.6167,
+      "experience_score": 1.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.2667,
+      "final_score": 0.4981,
+      "rank": 5,
+      "matched_skills": [
+        "pandas",
+        "tensorflow",
+        "data visualization",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "numpy",
+        "sql",
+        "tableau",
+        "git"
+      ],
+      "missing_skills": [
+        "natural language processing",
+        "matplotlib",
+        "pytorch",
+        "nlp",
+        "seaborn"
+      ],
+      "skill_gap_percentage": 33.33,
+      "recommendation": "\ud83d\udfe0 MAYBE - NEEDS REVIEW"
+    },
+    {
+      "candidate_id": "C010",
+      "name": "Lavanya Rao",
+      "tfidf_similarity": 0.1417,
+      "skill_match_score": 0.7567,
+      "experience_score": 0.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.4,
+      "final_score": 0.4166,
+      "rank": 6,
+      "matched_skills": [
+        "natural language processing",
+        "pandas",
+        "tensorflow",
+        "data visualization",
+        "matplotlib",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "numpy",
+        "sql",
+        "nlp",
+        "git",
+        "seaborn"
+      ],
+      "missing_skills": [
+        "tableau",
+        "pytorch"
+      ],
+      "skill_gap_percentage": 13.33,
+      "recommendation": "\ud83d\udfe0 MAYBE - NEEDS REVIEW"
+    },
+    {
+      "candidate_id": "C002",
+      "name": "Priya Nair",
+      "tfidf_similarity": 0.1168,
+      "skill_match_score": 0.6633,
+      "experience_score": 0.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.3,
+      "final_score": 0.3699,
+      "rank": 7,
+      "matched_skills": [
+        "natural language processing",
+        "pandas",
+        "matplotlib",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "numpy",
+        "sql",
+        "nlp",
+        "git",
+        "seaborn"
+      ],
+      "missing_skills": [
+        "tableau",
+        "tensorflow",
+        "data visualization",
+        "pytorch"
+      ],
+      "skill_gap_percentage": 26.67,
+      "recommendation": "\ud83d\udd34 NOT RECOMMENDED"
+    },
+    {
+      "candidate_id": "C009",
+      "name": "Ravi Kumar",
+      "tfidf_similarity": 0.0435,
+      "skill_match_score": 0.2433,
+      "experience_score": 1.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.1,
+      "final_score": 0.3482,
+      "rank": 8,
+      "matched_skills": [
+        "sql",
+        "python"
+      ],
+      "missing_skills": [
+        "natural language processing",
+        "pandas",
+        "tensorflow",
+        "data visualization",
+        "matplotlib",
+        "machine learning",
+        "scikit-learn",
+        "pytorch",
+        "numpy",
+        "tableau",
+        "nlp",
+        "git",
+        "seaborn"
+      ],
+      "skill_gap_percentage": 86.67,
+      "recommendation": "\ud83d\udd34 NOT RECOMMENDED"
+    },
+    {
+      "candidate_id": "C004",
+      "name": "Sneha Kulkarni",
+      "tfidf_similarity": 0.0274,
+      "skill_match_score": 0.2433,
+      "experience_score": 1.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.1,
+      "final_score": 0.3426,
+      "rank": 9,
+      "matched_skills": [
+        "sql",
+        "git"
+      ],
+      "missing_skills": [
+        "natural language processing",
+        "pandas",
+        "tensorflow",
+        "data visualization",
+        "matplotlib",
+        "python",
+        "machine learning",
+        "scikit-learn",
+        "pytorch",
+        "numpy",
+        "tableau",
+        "nlp",
+        "seaborn"
+      ],
+      "skill_gap_percentage": 86.67,
+      "recommendation": "\ud83d\udd34 NOT RECOMMENDED"
+    },
+    {
+      "candidate_id": "C005",
+      "name": "Karthik Reddy",
+      "tfidf_similarity": 0.0534,
+      "skill_match_score": 0.43,
+      "experience_score": 0.0,
+      "education_score": 1.0,
+      "keyword_density_score": 0.2,
+      "final_score": 0.2677,
+      "rank": 10,
+      "matched_skills": [
+        "pandas",
+        "matplotlib",
+        "python",
+        "machine learning",
+        "numpy",
+        "sql"
+      ],
+      "missing_skills": [
+        "natural language processing",
+        "tensorflow",
+        "data visualization",
+        "scikit-learn",
+        "pytorch",
+        "tableau",
+        "nlp",
+        "git",
+        "seaborn"
+      ],
+      "skill_gap_percentage": 60.0,
+      "recommendation": "\ud83d\udd34 NOT RECOMMENDED"
+    }
+  ]
+}
